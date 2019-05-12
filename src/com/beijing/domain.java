@@ -7,4 +7,5 @@ package com.beijing;
  */
 public class domain {
     private Integer id;
+    private String dname;
 }
